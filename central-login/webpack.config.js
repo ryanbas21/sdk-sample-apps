@@ -59,7 +59,7 @@ const config = {
     ],
   },
   devServer: {
-    port: 8443,
+    port: 8444,
     host: 'localhost',
     open: false,
     client: {
